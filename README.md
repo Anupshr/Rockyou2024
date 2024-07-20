@@ -19,3 +19,7 @@ https://www.utorrent.com/downloads/win/
     Delta between ‘Rockyou2024’ and ‘Rockyou2021’: 54GB of 146GB
 feel free download
 this file stored 10 billion passwords
+# you check your password breach or not go this website:
+Enter your username and gmail:
+https://exposed.lol/
+https://haveibeenpwned.com/
