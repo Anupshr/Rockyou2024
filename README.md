@@ -7,6 +7,7 @@ https://www.utorrent.com/downloads/win/
 
     magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a
     then paste this link utorrent web
+# Screenshots paste in new tab and see screenshots
     ![image](https://github.com/user-attachments/assets/a58efd12-62b4-485c-8647-24211e674c2a)
     ![Screenshot (43)](https://github.com/user-attachments/assets/3b6fe667-88d1-4e58-bde2-58823c95d7e8)
 
